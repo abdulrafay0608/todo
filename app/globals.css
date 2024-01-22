@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-image: url("https://lineae.co/cdn/shop/products/B6_Notebooks_Lifestyle2_fd339f2b-5abc-4403-977f-e776a7134948_1024x1024.jpg?v=1644754553");
+  height: 100vh;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
